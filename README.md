@@ -70,6 +70,6 @@ Contributions, suggestions and roasts are all welcome. 🤝
 
 *"Come on, Coding is quite fun xD"*
 
-![Visitor Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Visitor Snake](https://raw.githubusercontent.com/Innsaute-glitch/Innsaute-glitch/output/github-contribution-grid-snake.svg)
 
 </div>
