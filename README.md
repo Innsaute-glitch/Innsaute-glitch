@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Collage Student studing under **ECE (Electronics and Communications branch)**
+- 🎓 Collage Student studying under **ECE (Electronics and Communications branch)**
 - 🐍 Currently learning **Python** from scratch — and building real projects along the way
 - 📅 Started coding: **June 2026**
 - 🎯 Goal: Python → C → C++ → keep building cool stuff
@@ -37,9 +37,11 @@
 
 <div align="center">
 
-![Innsaute-glitch's GitHub Stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Innsaute-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9)
+![Innsaute-glitch's GitHub Stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Innsaute-glitch&show_icons=true&hide_border=true&bg_color=f2f0f7&title_color=6e40c9&icon_color=6e40c9&text_color=2f2b3a)
 
-![Top Languages](https://github-readme-stats-eight-zeta.vercel.app/api/top-langs/?username=Innsaute-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9)
+![Top Languages](https://github-readme-stats-eight-zeta.vercel.app/api/top-langs/?username=Innsaute-glitch&layout=compact&hide_border=true&bg_color=f2f0f7&title_color=6e40c9&text_color=2f2b3a)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Innsaute-glitch&hide_border=true&bg_color=f2f0f7&fire=6e40c9&ring=6e40c9&currStreakNum=2f2b3a&sideNums=2f2b3a&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=2f2b3a)
 
 </div>
 
@@ -68,6 +70,6 @@ Contributions, suggestions and roasts are all welcome. 🤝
 
 *"Come on, Coding is quite fun xD"*
 
-![Visitor Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Visitor Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
