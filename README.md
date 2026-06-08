@@ -37,9 +37,9 @@
 
 <div align="center">
 
-![Innsaute-glitch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Innsaute-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9)
+![Innsaute-glitch's GitHub Stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Innsaute-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Innsaute-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9)
+![Top Languages](https://github-readme-stats-eight-zeta.vercel.app/api/top-langs/?username=Innsaute-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9)
 
 </div>
 
