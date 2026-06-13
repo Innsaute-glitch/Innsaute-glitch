@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Collage Student studying under **ECE (Electronics and Communications branch)**
+- 🎓 College Student studying under **ECE (Electronics and Communications branch)**
 - 🐍 Currently learning **Python** from scratch — and building real projects along the way
 - 📅 Started coding: **June 2026**
 - 🎯 Goal: Python → C → C++ → keep building cool stuff
