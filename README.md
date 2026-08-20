@@ -20,26 +20,11 @@
 
 ---
 
-## 🗺️ Learning Roadmap
-
-```
-[✅] Python Basics        — Variables, operators, loops, functions, lists
-[✅] Git & GitHub         — Commits, repos, version control
-[🔄] Python Intermediate  — OOP, file handling, modules, APIs
-[ ] Pygame               — 2D game development
-[ ] C Fundamentals       — Memory, pointers, arrays (CS50x)
-[ ] C++                  — More practice needed
-```
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
 ![Innsaute-glitch's GitHub Stats](https://github-readme-stats-eight-zeta.vercel.app/api?username=Innsaute-glitch&show_icons=true&hide_border=true&bg_color=f2f0f7&title_color=6e40c9&icon_color=6e40c9&text_color=2f2b3a)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Innsaute-glitch&hide_border=true&bg_color=f2f0f7&fire=6e40c9&ring=6e40c9&currStreakNum=2f2b3a&sideNums=2f2b3a&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=2f2b3a)
 
 ![Top Languages](https://github-readme-stats-eight-zeta.vercel.app/api/top-langs/?username=Innsaute-glitch&layout=compact&hide_border=true&bg_color=f2f0f7&title_color=6e40c9&text_color=2f2b3a)
 
@@ -68,7 +53,7 @@ Contributions, suggestions and roasts are all welcome. 🤝
 
 <div align="center">
 
-*"Come on, Coding is quite fun xD"*
+*"There are only 10 kinds of people in this world: those who know binary and those who don’t."*
 
 ![Visitor Snake](https://raw.githubusercontent.com/Innsaute-glitch/Innsaute-glitch/output/github-contribution-grid-snake.svg)
 
