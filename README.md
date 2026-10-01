@@ -13,10 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 College Student studying under **ECE (Electronics and Communications branch)**
-- 🐍 Currently learning **Python** from scratch — and building real projects along the way
+- 🎓 College Student
 - 📅 Started coding: **June 2026**
-- 🎯 Goal: Python → C → C++ → keep building cool stuff
+- 🎯 Currently learning: LLMs (training, tuning, internals) · C and Python · history of computing · microcontrollers and hardware tinkering
 
 ---
 
@@ -39,15 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-> C badge is aspirational. Don't @ me 😅
-
----
-
-## 📬 Let's Connect
-
-If you're also learning to code, feel free to star a repo, open an issue or just say hi!
-Contributions, suggestions and roasts are all welcome. 🤝
 
 ---
 
